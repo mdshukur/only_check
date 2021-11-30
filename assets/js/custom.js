@@ -1,0 +1,2 @@
+// parallaxie js //
+$('.parallaxie').parallaxie();
